@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PST TA7 G4"
